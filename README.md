@@ -131,6 +131,12 @@ Deep learning-based satellite image classification system using CNN and MobileNe
 </div>
 
 ---
+## Certifications
+
+* Machine Learning Certificate – Coursera
+* ServiceNow Certification
+* Tata Virtual Experience Program – Forage
+* Cloud Computing – NPTEL
 
 ## Connect With Me
 
